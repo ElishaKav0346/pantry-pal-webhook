@@ -1,4 +1,3 @@
-gradio
-transformers
+gradio==4.27.0
+transformers==4.41.1
 torch
-
